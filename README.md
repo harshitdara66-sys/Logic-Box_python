@@ -35,12 +35,6 @@ Logic Box is a Python-based menu-driven program that allows users to generate di
 
 ---
 
-## ▶️ How to Run
-
-1. Install Python (if not installed)
-2. Save file as `logic_box.py`
-3. Open terminal / command prompt
-4. Run:
 
 ```bash
 python logic_box.py
